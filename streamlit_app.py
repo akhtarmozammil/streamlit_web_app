@@ -1,3 +1,5 @@
+import streamlit as st
+
 # Create a text input field
 user_input = st.text_input("Enter some text", "Type here...")
 
